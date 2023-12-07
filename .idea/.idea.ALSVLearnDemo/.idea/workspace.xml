@@ -9,34 +9,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8db1b38-270e-406c-8965-8c1694d2203d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ALSVLearnDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ALSVLearnDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ALSVLearnDemo.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ALSVLearnDemo.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Blueprints/GameModes/ALS_GameMode.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimBP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m_Montage_Default.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Actions/ALS_N_Mantle_2m_Montage_Default.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light_Additive.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/ALS_N_Land_Light_Additive.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_F.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/ALS_N_Walk_F.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_0.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_0.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_L.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_L.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_R.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Locomotion/Detail/ALS_N_LeanPose_R.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_L_Down.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_L_Down.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_R_Down.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/Transitions/ALS_N_Stop_R_Down.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Data/Curves/MantleCurves/Mantle_2m.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/Data/Curves/MantleCurves/Mantle_2m.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Starter/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Starter/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Starter/ThirdPersonCPP/Maps/ThirdPersonExampleMap_BuiltData.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/ALSVLearnDemo.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/ALSVLearnDemo.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/AnimNotifys/NotifyState_MovementAction.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/AnimNotifys/NotifyState_MovementAction.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSAnimInstance.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSAnimInstance.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSAnimInstance.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSAnimInstance.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSVLearnDemoCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSVLearnDemoCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSVLearnDemoCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALSVLearnDemoCharacter.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALS_Player_Controller.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Character/ALS_Player_Controller.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Interfaces/ALS_Character.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Interfaces/ALS_Character.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/ALSVLearnDemo/Interfaces/ALS_Character.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ALSVLearnDemo/Interfaces/ALS_Character.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ACS_AnimBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ACS_AnimBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimMan_CharacterBP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_AnimMan_CharacterBP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +63,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -364,6 +341,9 @@
       <workItem from="1701402650072" duration="4425000" />
       <workItem from="1701487147576" duration="14780000" />
       <workItem from="1701576458448" duration="11355000" />
+      <workItem from="1701690603553" duration="597000" />
+      <workItem from="1701747138470" duration="2201000" />
+      <workItem from="1701959847284" duration="647000" />
     </task>
     <servers />
   </component>
